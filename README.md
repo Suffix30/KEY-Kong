@@ -1,28 +1,25 @@
 ![Key Kong](images/key_kong.png)
 
-# WifiDeAuth
-# Wi-Fi Security Tools
+# COMING SOON 
 
-This collection of Python scripts utilizes the Scapy library to perform various Wi-Fi network operations including scanning for access points and devices, capturing probe requests, and executing deauthentication attacks. These tools are designed for educational purposes and network security testing in authorized environments.
+# Web Security Practice Levels
 
-## Requirements
+This project is designed for educational purposes to help individuals understand and practice various web security vulnerabilities. Each level introduces a specific vulnerability, allowing learners to practice detection and exploitation techniques using tools commonly found in Kali Linux.
 
-- A Linux-based system with wireless capabilities.
-- Python 3.x installed.
-- Scapy library installed.
-- Pandas library installed.
-- A network interface capable of monitor mode.
+## Overview
 
-## Installation
+The project consists of 10 levels, each focusing on a different web security vulnerability. From basic HTML form vulnerabilities to advanced server misconfigurations, participants will encounter a wide range of challenges commonly found in real-world web applications.
 
-1. Ensure Python 3.x is installed on your system. You can download it from the official website or install it using your distribution's package manager.
-2. Install Scapy and Pandas using pip:
+## Getting Started
 
-   ```
-   pip install scapy pandas
-   ```
+To get started with the project, follow these steps:
 
-3. Clone this repository or download the scripts directly to your local machine.
+1. Clone or download the project repository to your local machine.
+2. Ensure you have Node.js and npm (Node Package Manager) installed on your system.
+3. Navigate to the project directory in your terminal.
+4. Install project dependencies by running `npm install`.
+5. Start the server by running `node server.js`.
+6. Access the levels through your web browser by visiting `http://localhost:3000`.
 
 ## Levels and Challenges
 
